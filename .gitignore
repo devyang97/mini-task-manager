@@ -1,0 +1,10 @@
+# C# build folders
+backend/bin/
+backend/obj/
+backend/*.user
+
+# Environment
+backend/appsettings.Development.json
+
+# Mac
+.DS_Store
